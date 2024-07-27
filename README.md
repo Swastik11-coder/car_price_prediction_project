@@ -8,8 +8,7 @@ This project aims to predict the Price of an used Car by taking it's Company nam
 2)It then predicts the possible price of the car.
 
 # How this project does?
-First of all the data was scraped from Quikr.com (https://quikr.com) Link for data: https://github.com/rajtilakls2510/car_price_predictor/blob/master/quikr_car.csv
-
+First of all the data was scraped from Quikr.com (https://quikr.com) Link for data: https://github.com/Swastik11-coder/car_price_prediction_project/blob/main/quikr_car.csv
 The data was cleaned (it was super unclean :( ) and analysed.
 
 Then a Linear Regression model was built on top of it which had 0.92 R2_score.
