@@ -16,3 +16,4 @@ This project aims to predict the Price of an used Car by taking it's Company nam
 Link for notebook: https://github.com/Swastik11-coder/car_price_prediction_project/blob/main/car_price_prediction.ipynb
 
 4) This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
+![Screenshot 2024-07-29 094154](https://github.com/user-attachments/assets/f5861e19-2f0f-4ec5-ab3b-dd6e844337b0)
